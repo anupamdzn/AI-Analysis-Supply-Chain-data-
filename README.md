@@ -7,7 +7,7 @@
 
 ## 📝 Project Overview
 
-- Project Title: Strays - Data Analysis of a Food Delivery App
+- Project Title: AI Analysis of Supply Chain Data
 - Dataset Source: https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset
 - Technology/Tools: FormulaBot/ChatGPT
 
