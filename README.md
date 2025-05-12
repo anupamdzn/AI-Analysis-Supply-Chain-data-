@@ -9,7 +9,7 @@
 
 - Project Title: Strays - Data Analysis of a Food Delivery App
 - Dataset Source: https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset
-- Technology?Tools: FormulaBot/ChatGPT
+- Technology/Tools: FormulaBot/ChatGPT
 
 This project explores a real-world supply chain dataset to derive actionable insights into product performance, supplier efficiency, logistics costs, and inventory behaviors. The goal is to aid businesses in making data-informed decisions for optimized operations.
 
@@ -68,6 +68,10 @@ This project explores a real-world supply chain dataset to derive actionable ins
 ## 📌 Conclusion
 
 This analysis highlights Cosmetics as the top revenue contributor and Sea transport as the most efficient mode. Delhi and Supplier 1 show strong lead time performance, while Route B incurs the highest logistics costs. There is minimal correlation between inventory levels and sales, suggesting the need for more nuanced demand forecasting. These findings help prioritize improvements in transportation, supplier selection, and product stocking strategies.
+
+## The above analysis is done totally with help of Artificial Intelligence tools, showcasing that AI can do preliminary analysis on clean data. I sourced this data from Kaggle. Performed and VibeAnalysed with help from Formulabot and ChatGPT.
+
+**Thank You**
 
 
 
